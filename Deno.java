@@ -1,10 +1,8 @@
 
-public class NewFile {
+public class Deno {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String name = "Chandan";
-		System.out.println(name);
 
 	}
 
